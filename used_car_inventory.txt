@@ -1,0 +1,2 @@
+Name: 2od,Owner Name :gullu, Company : toyota, Model : 121, Mileage : 13, Price : 120000, Description : bumper to bumper geniune, Contact : 2147483647, Fuel type : diesel, Engine : v7, Rating : 4, Make year : 2010, Available in city : lahore, Color : silver
+Name: civic,Owner Name :raza, Company : honda, Model : 121, Mileage : 11, Price : 90000000, Description : sports mode wali ha, Contact : 321221134, Fuel type : petrole, Engine : v11, Rating : 5, Make year : 2022, Available in city : karachi, Color : redwine

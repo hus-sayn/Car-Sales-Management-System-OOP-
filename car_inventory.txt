@@ -1,0 +1,2 @@
+Name: prado,Owner Name :mujeeb, Company : toyota, Model : 121, Mileage : 15, Price : 2460000, Description : monster truck hai, Contact : 2147483647, Fuel type : diesel, Engine : v5, Rating : 4, Make year : 1995, Available in city : mzd, Color : brown
+Name: gli,Owner Name :manan, Company : toyota, Model : 12121, Mileage : 16, Price : 4000020, Description : full tuned, Contact : 2147483647, Fuel type : petrole, Engine : 1.6l, Rating : 5, Make year : 2022, Available in city : isb, Color : redwine

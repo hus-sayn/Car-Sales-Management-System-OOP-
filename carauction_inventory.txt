@@ -1,0 +1,2 @@
+Name: pajero,Owner Name :arshad, Company : mitsubishi, Model : 12123, Mileage : 6, Price : 320002, Description : 6 cylinders, Contact : 2147483647, Fuel type : diesel, Engine : v3, Rating : 4, Make year : 2011, Available in city : lahore, Color : blue
+Name: tucson,Owner Name :mir, Company : honda, Model : 121, Mileage : 18, Price : 12000201, Description : hybrid, Contact : 31393022, Fuel type : petrole, Engine : v7, Rating : 5, Make year : 2019, Available in city : karachi, Color : black
